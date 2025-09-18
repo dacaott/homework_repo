@@ -10,5 +10,7 @@
 
 # Контакты для связи
 Муромцева Татьяна:
-my mail: @tamuromt@yandex.ru
+
+my mail: tamuromt@yandex.ru
+
 my tg: @tamuromt
